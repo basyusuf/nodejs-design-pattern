@@ -23,3 +23,5 @@ class Singleton{
     }
 }
 module.exports=Singleton;
+
+//Note: Delete Singleton Class and module.exports = New Logger() easy way to use Singleton :)
