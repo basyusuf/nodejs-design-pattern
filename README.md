@@ -9,3 +9,5 @@
 - Proxy
 - Composite
 - Decorator
+### Behavioral
+- Chain Of Responsibility
