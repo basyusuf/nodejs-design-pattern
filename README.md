@@ -11,3 +11,4 @@
 - Decorator
 ### Behavioral
 - Chain Of Responsibility
+- Command
