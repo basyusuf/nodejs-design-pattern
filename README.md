@@ -12,3 +12,5 @@
 ### Behavioral
 - Chain Of Responsibility
 - Command
+- Iterator
+- Observer
